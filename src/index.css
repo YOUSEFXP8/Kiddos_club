@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF8C00;
+  --color-secondary: #98FF98;
+  --color-tertiary: #E2725B;
+  --color-neutral-soft: #F5F5F5;
+  --font-sans: "Balsamiq Sans", cursive, sans-serif;
+}
+
+body {
+  background-color: var(--color-secondary);
+  font-family: var(--font-sans);
+  margin: 0;
+}
