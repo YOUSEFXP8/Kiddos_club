@@ -36,13 +36,8 @@ const HomePage = () => {
   return (
     <div className="flex flex-col min-h-screen bg-gray-50 pb-32">
 
-        <div className="px-6 pt-8 pb-4">
-            <h1 className="text-3xl font-bold text-gray-800">
-                Hello, <br/>
-                <span className="text-primary">Little Chef 👋</span>
-            </h1>
-        </div>
-
+       
+        
 
         <div className="px-4 space-y-4">
             {posts.map(post => (

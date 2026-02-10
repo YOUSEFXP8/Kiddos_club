@@ -13,7 +13,7 @@ const Header = () => {
         >
           <ChevronLeft size={28} />
         </button>
-        <h1 className="text-xl font-bold tracking-wide">Kiddos Club</h1>
+        <h1 className="text-xl font-bold tracking-wide">Kiddo Club</h1>
         <button className="p-2 hover:bg-orange-600 rounded-full transition-colors">
           <Trophy size={28} />
         </button>
