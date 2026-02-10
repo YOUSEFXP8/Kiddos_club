@@ -1,16 +1,24 @@
-# React + Vite
+# Kiddos Club - Little Chefs App 🍳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an interactive, gamified educational platform designed for children to explore cooking and other creative activities. It features a colorful, engaging interface with learning paths, episodes, and social sharing capabilities.
 
-Currently, two official plugins are available:
+## 🏆 Project Context
+**This application was developed as a submission for a coding competition.** The goal was to create a fun, safe, and educational digital environment for kids.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+- **Interactive Map**: A gamified progression system where kids unlock new levels and episodes.
+- **Educational Episodes**: Video-based learning content (e.g., cooking classes like "Rainbow Sandwich Party").
+- **Social Feed**: A safe space for kids to share their creations and interact with likes and comments.
+- **Profile Customization**: Users can choose avatars and track their stats.
+- **Multiple Clubs**: Beyond cooking, the platform supports other interests like Drawing, Music, and Science.
 
-## React Compiler
+## 🚀 Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- React Router
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Getting Started
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm run dev` to start the development server.
