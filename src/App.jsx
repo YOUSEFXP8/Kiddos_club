@@ -78,7 +78,7 @@ const AppLayout = () => {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Kiddos_club">
         <AppLayout />
     </Router>
   )
